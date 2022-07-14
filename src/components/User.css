@@ -1,0 +1,16 @@
+.user_card {
+	width: 50%;
+	display: flex;
+	margin: 1rem auto;
+	border: 1.3px solid black;
+}
+
+.user_card > img {
+	flex: 3;
+}
+
+.user_card_details {
+	flex: 7;
+	text-align: left;
+	padding-left: 1rem;
+}
